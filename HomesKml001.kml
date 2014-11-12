@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+    <Document>
+      <name>Properties</name>
+      <description>here be properties</description>
+      
+      <Placemark>
+        <name>437 DROZ DRIVE</name>
+        <description>Located at 64.85220 -147.67397</description>
+        <Point>
+          <coordinates>-147.67397,64.85220,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <Placemark>
+        <name>4814 DA NEPHEW STREET B</name>
+        <description>Located at 64.70773 -147.15184</description>
+        <Point>
+          <coordinates>-147.15184,64.70773,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <Placemark>
+        <name>4791 PUTNAM LANE</name>
+        <description>Located at 64.71062 -147.15295</description>
+        <Point>
+          <coordinates>-147.15295,64.71062,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <Placemark>
+        <name>4412 LAUESEN AVENUE 7</name>
+        <description>Located at 64.71837 -147.19273</description>
+        <Point>
+          <coordinates>-147.19273,64.71837,0</coordinates>
+        </Point>
+      </Placemark>
+      
+    </Document>
+</kml>
